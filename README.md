@@ -6,5 +6,5 @@ A project is a part of the master thesis at Poznan University of Technology, don
 
 ## Creators
 
-- (Filip Szóstak)[https://github.com/Cheriit]
-- (Konrad Tarnacki)[https://github.com/Tarnac]
+- [Filip Szóstak](https://github.com/Cheriit)
+- [Konrad Tarnacki](https://github.com/Tarnac)
